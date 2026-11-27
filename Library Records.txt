@@ -1,0 +1,1 @@
+{'ramayana': {'Author': 'Maharshi Valmiki', 'Price': 200, 'Copies': 9}, 'mahabharat': {'Author': 'Ved Vyas', 'Price': 350, 'Copies': 6}, 'iron man': {'Author': 'Stan Lee', 'Price': 200, 'Copies': 7}}
